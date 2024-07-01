@@ -1,2 +1,3 @@
-# My-Budget
-My personal budget maker.
+Hello! This is my personal budget maker. Feel free to use it. Or don't. Whatever! :)
+If you're one of my friends or family seeing this project....
+hi! :)
